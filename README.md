@@ -99,4 +99,4 @@ Thanks to the JavaCV and FFmpeg communities for providing the tools and resource
 
 ---
 
-Made by [Your Name] - mansourlol440@gmail.com
+Made by Mansour - mansourlol440@gmail.com
